@@ -1,11 +1,11 @@
 # Hololive EN colour themes!
 
-## Preview
+## Gura theme Preview
 ![Gawr Gura screenshot](https://raw.githubusercontent.com/JachymT/Hololive-EN-VSCode/main/screenshots/gura-preview.png)
 
 ## Contents
- * Mori Calliope ✓
  * Gawr Gura ✓
+ * Mori Calliope ✓
  * Ninomae Ina'nis ✓
  * Takanashi Kiara x         [coming soon]
  * Watson Amelia x           [coming soon]
