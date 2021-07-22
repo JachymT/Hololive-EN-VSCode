@@ -1,0 +1,31 @@
+{
+    "name": "hololive-en",
+    "displayName": "Hololive EN",
+    "description": "Dark themes based on the amazing Hololive English members",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Hololive EN: Gawr Gura",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Gura.json"
+            },
+            {
+                "label": "Hololive EN: Mori Calliope",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Calli.json"
+            },
+            {
+                "label": "Hololive EN: Ninomae Ina'nis",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Ina.json"
+            }
+        ]
+    }
+}
