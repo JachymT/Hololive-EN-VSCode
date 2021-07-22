@@ -1,7 +1,7 @@
 # Hololive EN colour themes!
 
 ## Gura theme Preview
-![Gawr Gura screenshot](https://raw.githubusercontent.com/JachymT/Hololive-EN-VSCode/main/screenshots/gura-preview.png)
+include screenshot
 
 ## Contents
  * Gawr Gura ✓
