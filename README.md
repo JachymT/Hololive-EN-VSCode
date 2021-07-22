@@ -1,7 +1,7 @@
 # Hololive EN colour themes!
 
 ## Preview
-![Gawr Gura screenshot]
+![Gawr Gura screenshot](https://raw.githubusercontent.com/JachymT/Hololive-EN-VSCode/main/screenshots/gura-preview.png)
 
 ## Contents
  * Mori Calliope ✓
