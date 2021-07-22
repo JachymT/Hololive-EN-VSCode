@@ -1,6 +1,7 @@
 # Hololive EN colour themes!
 
 ## Preview
+![Gawr Gura screenshot]
 
 ## Contents
  * Mori Calliope ✓
@@ -14,8 +15,4 @@
 
 ## Thanks for checking out my custom made themes. 
 These are still a work in progress and so any feedback is appreciated.
-
 My discord: Jac#0549
-
-**Notes**
-All colours from Calli's theme: 

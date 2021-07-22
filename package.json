@@ -3,6 +3,29 @@
     "displayName": "Hololive EN",
     "description": "Dark themes based on the amazing Hololive English members",
     "version": "1.0.0",
+    "publisher": "hololove",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/JachymT/Hololive-EN-VSCode"
+    },
+    "keywords": [
+        "theme",
+        "dark",
+        "dim",
+        "soft",
+        "hololive",
+        "hololive english",
+        "hololive en",
+        "holo-en",
+        "vtuber",
+        "youtube",
+        "calli",
+        "gura",
+        "ina",
+        "ame",
+        "kiara",
+        "irys"
+    ],
     "engines": {
         "vscode": "^1.58.0"
     },

@@ -3,18 +3,18 @@
 	  "$schema": "vscode://schemas/color-theme",
 	  "type": "dark",
 	  "colors": {
-		"activityBar.background": "#212530",      // #0e1330b0 or #212530 for darker
+		"activityBar.background": "#212530",
 		"activityBar.border": "#25293060",
 		"activityBar.foreground": "#a7d0eb",
 		"activityBar.inactiveForeground": "#a7d0eb86",
-		"activityBarBadge.background": "#e2e2e2",        //1. #dadada
-		"activityBarBadge.foreground": "#252930",     // 1. #102039
+		"activityBarBadge.background": "#e2e2e2",
+		"activityBarBadge.foreground": "#252930",
 		"badge.background": "#a7d0ebf5",
 		"badge.foreground": "#252930",         
 		"breadcrumb.activeSelectionForeground": "#0e1330",
 		"breadcrumb.background": "#252930",
 		"breadcrumb.focusForeground": "#e2e2e2",
-		"breadcrumb.foreground": "#3f506d",             //1. #3f506d
+		"breadcrumb.foreground": "#3f506d",
 		"breadcrumbPicker.background": "#252930",
 		"button.background": "#0e133050",
 		"contrastBorder": "#0e133040",
@@ -47,7 +47,7 @@
 		"editorIndentGuide.activeBackground": "#3f506d",
 		"editorIndentGuide.background": "#3f506d50",
 		"editorInfo.foreground": "#eb717770",
-		"editorLineNumber.activeForeground": "#a7d0eb",   //1. #c6e7ee
+		"editorLineNumber.activeForeground": "#a7d0eb",
 		"editorLineNumber.foreground": "#3f506dc0",
 		"debugIcon.breakpointForeground": "#438bc6",
 		"editorLink.activeForeground": "#a7d0eb",
@@ -71,7 +71,7 @@
 		"extensionButton.prominentBackground": "#25293090",
 		"extensionButton.prominentHoverBackground": "#484860",
 		"focusBorder": "#598da500",
-		"foreground": "#bdd1d3",        //1. #d5eaef
+		"foreground": "#bdd1d3",
 		"gitDecoration.conflictingResourceForeground": "#a7d0eb",
 		"gitDecoration.deletedResourceForeground": "#e2e2e2",
 		"gitDecoration.ignoredResourceForeground": "#0e1330",
@@ -158,7 +158,7 @@
 		"sideBar.background": "#252930",
 		"sideBar.border": "#0e133050",
 		"sideBar.foreground": "#bdd1d3",
-		"sideBarSectionHeader.background": "#212530",           // #0e1330b0 or #212530 for darker
+		"sideBarSectionHeader.background": "#212530",
 		"sideBarSectionHeader.border": "#25293060", 
 		"sideBarSectionHeader.foreground": "#bdd1d3",
 		"sideBarTitle.foreground": "#e2e2e2",
@@ -176,7 +176,7 @@
 		"tab.activeForeground": "#a7d0eb",
 		"tab.activeModifiedBorder": "#0e1330",
 		"tab.border": "#252930",
-		"tab.inactiveBackground": "#212530",     //new, a lighter version of the dark #0e1330
+		"tab.inactiveBackground": "#212530",
 		"tab.inactiveForeground": "#e2e2e2af",
 		"tab.unfocusedActiveBorder": "#0e1330",
 		"tab.unfocusedActiveBackground": "#0e133040",
@@ -212,7 +212,7 @@
 		"widget.shadow": "#1f2329",
 		"scrollbar.shadow": "#1f2329",
 	  },
-	  "tokenColors": [
+	"tokenColors": [
 		{		
 		  "scope": [
 			"storage.modifier",
@@ -222,7 +222,7 @@
 			"invalid.deprecated"
 		  ],
 		  "settings": {
-			"foreground": "#598da5"  //1. #6495ac  2. #70a7c0
+			"foreground": "#598da5"
 		  }
 		},
 		{
@@ -231,7 +231,7 @@
 			"punctuation.definition.comment" 
 		  ],
 		  "settings": {
-			"foreground": "#3f506d",      //1. ..., 2. #243f6a
+			"foreground": "#3f506d",
 			"fontStyle": "italic"
 		  }
 		},
@@ -349,9 +349,7 @@
 		  "scope": [
 			"entity.name.tag.html"
 		  ],
-		  "settings": {
-			//"fontStyle": "bold"
-		  }
+		  "settings": {}
 		},
 		{
 		  "scope": [
@@ -363,7 +361,7 @@
 			"variable.function.constructor",
 		  ],
 		  "settings": {
-			"foreground": "#a7d0eb"    // 1.#b7d5db 2.#b0f9fd 3. #6bc5db
+			"foreground": "#a7d0eb"
 		  }
 		},
 		{
@@ -376,7 +374,6 @@
 		  ],
 		  "settings": {
 			"foreground": "#abcbe0",
-			//"fontStyle": "bold"
 		  }
 		},
 		{
@@ -399,7 +396,7 @@
 			"markup.fenced_code.block"
 		  ],
 		  "settings": {
-			"foreground": "#eb7177"                //1.  #f8ab99  2. #e992b6 
+			"foreground": "#eb7177"
 		  }
 		},
 		{
@@ -459,7 +456,6 @@
 		  ],
 		  "settings": {
 			"foreground": "#000000",
-			//"fontStyle": ""
 		  }
 		},
 		{
@@ -517,7 +513,6 @@
 		  ],
 		  "settings": {
 			"foreground": "#eb7177",
-			//"fontStyle": ""
 		  }
 		},
 		{
@@ -592,7 +587,6 @@
 		  ],
 		  "settings": {
 			"foreground": "#bdd1d3",
-			//"fontStyle": "italic"
 		  }
 		},
 		{
@@ -611,8 +605,7 @@
 			"support.type.property-name.json"
 		  ],
 		  "settings": {
-			"foreground": "#438bc6", 
-			//"fontStyle": "italic"
+			"foreground": "#438bc6",
 		  }
 		},
 		{
@@ -680,9 +673,7 @@
 		  "scope": [
 			"markup.quote"
 		  ],
-		  "settings": {
-			//"fontStyle": "italic"
-		  }
+		  "settings": {}
 		},
 		{
 		  "scope": [
@@ -769,5 +760,5 @@
 			"foreground": "#0e1330d0"
 		  }
 		}
-	  ]
-  }
+	]
+}

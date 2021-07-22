@@ -3,15 +3,15 @@
 	  "$schema": "vscode://schemas/color-theme",
 	  "type": "dark",
 	  "colors": {
-		"activityBar.background": "#261c2c",   //1.#423d4a   2.#241d29   3.#2f2b3d  4.#202130
+		"activityBar.background": "#261c2c",
 		"activityBar.border": "#2d273660",
 		"activityBar.foreground": "#cda2d5",
 		"activityBar.inactiveForeground": "#cda2d586",
-		"activityBarBadge.background": "#dbd3e4",       //1. #dbd3e4
-		"activityBarBadge.foreground": "#2d2736",       //1. #312d3b  2. #2b2833
+		"activityBarBadge.background": "#dbd3e4",
+		"activityBarBadge.foreground": "#2d2736",
 		"badge.background": "#cda2d5f5",
 		"badge.foreground": "#2d2736",         
-		"breadcrumb.activeSelectionForeground": "#50446c",    //1. #413a63  2.#695c89 
+		"breadcrumb.activeSelectionForeground": "#50446c",
 		"breadcrumb.background": "#2d2736",
 		"breadcrumb.focusForeground": "#dbd3e4",
 		"breadcrumb.foreground": "#594e67", 
@@ -162,7 +162,7 @@
 		"sideBarSectionHeader.border": "#2d273660",
 		"sideBarSectionHeader.foreground": "#c2bac9",
 		"sideBarTitle.foreground": "#dbd3e4",
-		"statusBar.background": "#cda2d5",          //1. #b072a8
+		"statusBar.background": "#cda2d5",
 		"statusBar.foreground": "#50446c",
 		"statusBar.border": "#2d273660",
 		"statusBar.debuggingBackground": "#ea9271",
@@ -209,7 +209,7 @@
 		"titleBar.inactiveBackground": "#2d2736",
 		"titleBar.inactiveForeground": "#50446c",
 		"tree.indentGuidesStroke": "#50446cd0",
-		"widget.shadow": "#261c2c",              //darker version of bg 1.#222027
+		"widget.shadow": "#261c2c",
 		"scrollbar.shadow": "#261c2c",
 	  },
 	  "tokenColors": [
@@ -222,7 +222,7 @@
 			"invalid.deprecated"
 		  ],
 		  "settings": {
-			"foreground": "#b561e6"  // 1. #b561e6
+			"foreground": "#b561e6"
 		  }
 		},
 		{
@@ -259,7 +259,7 @@
 			"invalid.illegal"
 		  ],
 		  "settings": {
-			"foreground": "#c2bac9" //1.  #b4a1b3
+			"foreground": "#c2bac9"
 		  }
 		},
 		{
@@ -349,9 +349,7 @@
 		  "scope": [
 			"entity.name.tag.html"
 		  ],
-		  "settings": {
-			//"fontStyle": "bold"
-		  }
+		  "settings": {}
 		},
 		{
 		  "scope": [
@@ -376,7 +374,6 @@
 		  ],
 		  "settings": {
 			"foreground": "#afc4e2",
-			//"fontStyle": ""
 		  }
 		},
 		{
@@ -459,7 +456,6 @@
 		  ],
 		  "settings": {
 			"foreground": "#000000",
-			"fontStyle": ""
 		  }
 		},
 		{
@@ -517,7 +513,6 @@
 		  ],
 		  "settings": {
 			"foreground": "#ffbb79",
-			//"fontStyle": ""
 		  }
 		},
 		{
@@ -592,7 +587,6 @@
 		  ],
 		  "settings": {
 			"foreground": "#c2bac9",
-			//"fontStyle": "italic"
 		  }
 		},
 		{
@@ -612,7 +606,6 @@
 		  ],
 		  "settings": {
 			"foreground": "#afc4e2",
-			//"fontStyle": "italic"
 		  }
 		},
 		{
@@ -664,7 +657,7 @@
 			"markup.underline"
 		  ],
 		  "settings": {
-			"foreground": "#ffbb79",    //1. #f1a96f
+			"foreground": "#ffbb79",
 			"fontStyle": "underline"
 		  }
 		},
@@ -680,9 +673,7 @@
 		  "scope": [
 			"markup.quote"
 		  ],
-		  "settings": {
-			//"fontStyle": "italic"
-		  }
+		  "settings": {}
 		},
 		{
 		  "scope": [
@@ -718,15 +709,15 @@
 		  }
 		},
 		{
-			"scope": [
-				"punctuation.definition.list.begin",
-				"punctuation.definition.list.end",
-				"punctuation.definition.parameters",
-        		"punctuation.definition.block",
-			],
-			"settings": {
-			  "foreground": "#dbd3e4"
-			}
+		  "scope": [
+			"punctuation.definition.list.begin",
+			"punctuation.definition.list.end",
+			"punctuation.definition.parameters",
+			"punctuation.definition.block",
+		  ],
+		  "settings": {
+			"foreground": "#dbd3e4"
+		  }
 		},
 		{
 		  "scope": [
@@ -769,5 +760,5 @@
 			"foreground": "#50446cd0"
 		  }
 		}
-	  ]
-  }
+	]
+}
