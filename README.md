@@ -1,13 +1,13 @@
 # Hololive EN colour themes
 
 ## Gura theme Preview
-![gura screenshot](https://raw.githubusercontent.com/JachymT/Hololive-EN-VSCode/blob/main/images/gura-preview.png)
+![gura screenshot](https://raw.githubusercontent.com/JachymT/Hololive-EN-VSCode/main/images/gura-preview.png)
 
 ## Calli theme Preview
-![calli screenshot](https://raw.githubusercontent.com/JachymT/Hololive-EN-VSCode/blob/main/images/calli-preview.png)
+![calli screenshot](https://raw.githubusercontent.com/JachymT/Hololive-EN-VSCode/main/images/calli-preview.png)
 
 ## Ina theme Preview
-![ina screenshot](https://raw.githubusercontent.com/JachymT/Hololive-EN-VSCode/blob/main/images/ina-preview.png)
+![ina screenshot](https://raw.githubusercontent.com/JachymT/Hololive-EN-VSCode/main/images/ina-preview.png)
 
 ## Contents
  * Gawr Gura ✓
