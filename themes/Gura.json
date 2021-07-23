@@ -717,7 +717,7 @@
 			"variable.language.fenced.markdown"
 		  ],
 		  "settings": {
-			"foreground": "#0e1330"
+			"foreground": "#1a2046"
 		  }
 		},
 		{
@@ -732,7 +732,7 @@
 		{
 		  "scope": "token.info-token",
 		  "settings": {
-			"foreground": "#0e1330"
+			"foreground": "#1a2046"
 		  }
 		},
 		{
@@ -750,7 +750,7 @@
 		{
 		  "scope": "token.debug-token",
 		  "settings": {
-			"foreground": "#0e1330d0"
+			"foreground": "#1a2046"
 		  }
 		}
 	]
