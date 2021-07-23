@@ -4,7 +4,7 @@
     "description": "Dark themes based on the Hololive English members",
     "version": "1.0.0",
     "license": "MIT",
-	"icon": "hololive-icon.png",
+    "icon": "hololive-icon.png",
     "publisher": "hololove",
     "repository": {
         "type": "git",
