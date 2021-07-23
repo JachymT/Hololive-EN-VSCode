@@ -1,8 +1,10 @@
 {
     "name": "hololive-en",
     "displayName": "Hololive EN",
-    "description": "Dark themes based on the amazing Hololive English members",
-    "version": "14.0.0",
+    "description": "Dark themes based on the Hololive English members",
+    "version": "1.1.0",
+    "license": "MIT",
+	"icon": "hololive-icon.png",
     "publisher": "hololove",
     "repository": {
         "type": "git",
@@ -11,14 +13,11 @@
     "keywords": [
         "theme",
         "dark",
-        "dim",
-        "soft",
+        "anime",
         "hololive",
         "hololive english",
         "hololive en",
-        "holo-en",
         "vtuber",
-        "youtube",
         "calli",
         "gura",
         "ina",

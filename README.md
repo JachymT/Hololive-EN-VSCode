@@ -1,7 +1,13 @@
-# Hololive EN colour themes!
+# Hololive EN colour themes
 
 ## Gura theme Preview
-include screenshot
+![gura screenshot](https://raw.githubusercontent.com/JachymT/Hololive-EN-VSCode/blob/main/images/gura-preview.png)
+
+## Calli theme Preview
+![calli screenshot](https://raw.githubusercontent.com/JachymT/Hololive-EN-VSCode/blob/main/images/calli-preview.png)
+
+## Ina theme Preview
+![ina screenshot](https://raw.githubusercontent.com/JachymT/Hololive-EN-VSCode/blob/main/images/ina-preview.png)
 
 ## Contents
  * Gawr Gura ✓
@@ -14,5 +20,4 @@ include screenshot
 *To change the theme `Cmd+k Cmd+d` on macOS or (`Ctrl+k Ctrl+d` on Windows and Linux).*
 
 ## Thanks for checking out my custom made themes. 
-These are still a work in progress and so any feedback is appreciated.
-My discord: Jac#0549
+These are still a work in progress and so any feedback is appreciated. My discord: Jac#0549
