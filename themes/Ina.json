@@ -19,8 +19,8 @@
 		"button.background": "#50446c50",
 		"contrastBorder": "#50446c40",
 		"debugToolBar.background": "#2d2736",
-		"diffEditor.insertedTextBackground": "#2d273615",
-		"diffEditor.removedTextBackground": "#dbd3e420",
+		"diffEditor.insertedTextBackground": "#467fad30",
+		"diffEditor.removedTextBackground": "#7a366030",
 		"dropdown.background": "#2d2736",
 		"dropdown.border": "#b561e610",
 		"editor.background": "#2d2736",
@@ -39,9 +39,9 @@
 		"editorError.foreground": "#dbd3e470",
 		"editorGroup.border": "#2d273630",
 		"editorGroupHeader.tabsBackground": "#2d2736",
-		"editorGutter.addedBackground": "#2d273660",
-		"editorGutter.deletedBackground": "#dbd3e460",
-		"editorGutter.modifiedBackground": "#ffbb7960",
+		"editorGutter.addedBackground": "#afc4e2",
+		"editorGutter.deletedBackground": "#a77fa0",
+		"editorGutter.modifiedBackground": "#ffbc79",
 		"editorHoverWidget.background": "#2d2736",
 		"editorHoverWidget.border": "#b561e610",
 		"editorIndentGuide.activeBackground": "#594e67",
@@ -75,8 +75,8 @@
 		"gitDecoration.conflictingResourceForeground": "#cda2d5",
 		"gitDecoration.deletedResourceForeground": "#dbd3e4",
 		"gitDecoration.ignoredResourceForeground": "#50446c",
-		"gitDecoration.modifiedResourceForeground": "#afc4e2",
-		"gitDecoration.untrackedResourceForeground": "#ffbb79",
+		"gitDecoration.modifiedResourceForeground": "#ffbb79",
+		"gitDecoration.untrackedResourceForeground": "#afc4e2",
 		"gitDecoration.addedResourceForeground": "#a77fa0",
 		"input.background": "#594e67b0",
 		"input.border": "#50446c2c",
@@ -111,9 +111,9 @@
 		"menubar.selectionBorder": "#50446c50",
 		"menubar.selectionForeground": "#dbd3e4",
 		"minimap.background": "#2d2736",
-		"minimapGutter.addedBackground": "#dbd3e4",
-		"minimapGutter.deletedBackground": "#cda2d5",
-		"minimapGutter.modifiedBackground": "#50446c",
+		"minimapGutter.addedBackground": "#afc4e280",
+		"minimapGutter.deletedBackground": "#a77fa080",
+		"minimapGutter.modifiedBackground": "#ffbc7980",
 		"minimapSlider.activeBackground": "#50446c88",
 		"minimapSlider.background": "#50446c44",
 		"minimapSlider.hoverBackground": "#50446ca0",
@@ -191,7 +191,7 @@
 		"terminal.ansiBrightCyan": "#a7d8eb",
 		"terminal.ansiBrightGreen": "#8adb98",
 		"terminal.ansiBrightMagenta": "#d992de",
-		"terminal.ansiBrightRed": "#d15c5c",
+		"terminal.ansiBrightRed": "#e77080",
 		"terminal.ansiBrightWhite": "#e2e2e2",
 		"terminal.ansiBrightYellow": "#e3cb7b",
 		"terminal.ansiCyan": "#6b9fb3",
@@ -229,7 +229,8 @@
 		{
 		  "scope": [
 			"comment",
-			"punctuation.definition.comment" 
+			"punctuation.definition.comment",
+			"string.comment"
 		  ],
 		  "settings": {
 			"foreground": "#594e67",
@@ -456,7 +457,7 @@
 			"string.unquoted.label.js"
 		  ],
 		  "settings": {
-			"foreground": "#000000",
+			"foreground": "#cda2d5",
 		  }
 		},
 		{
@@ -555,7 +556,7 @@
 			"markup.inserted"
 		  ],
 		  "settings": {
-			"foreground": "#000000"
+			"foreground": "#c2bac9"
 		  }
 		},
 		{

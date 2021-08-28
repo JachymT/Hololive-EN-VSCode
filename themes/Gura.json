@@ -19,8 +19,8 @@
 		"button.background": "#0e133050",
 		"contrastBorder": "#0e133040",
 		"debugToolBar.background": "#252930",
-		"diffEditor.insertedTextBackground": "#25293015",
-		"diffEditor.removedTextBackground": "#e2e2e220",
+		"diffEditor.insertedTextBackground": "#136e6230",
+		"diffEditor.removedTextBackground": "#f8546a30",
 		"dropdown.background": "#252930",
 		"dropdown.border": "#598da510",
 		"editor.background": "#252930",
@@ -39,9 +39,9 @@
 		"editorError.foreground": "#e2e2e270",
 		"editorGroup.border": "#0e133050",
 		"editorGroupHeader.tabsBackground": "#252930",
-		"editorGutter.addedBackground": "#25293060",
-		"editorGutter.deletedBackground": "#e2e2e260",
-		"editorGutter.modifiedBackground": "#eb717760",
+		"editorGutter.addedBackground": "#eb7177",
+		"editorGutter.deletedBackground": "#438bc6",
+		"editorGutter.modifiedBackground": "#97b2eb",
 		"editorHoverWidget.background": "#252930",
 		"editorHoverWidget.border": "#598da510",
 		"editorIndentGuide.activeBackground": "#3f506d",
@@ -75,9 +75,9 @@
 		"gitDecoration.conflictingResourceForeground": "#a7d0eb",
 		"gitDecoration.deletedResourceForeground": "#e2e2e2",
 		"gitDecoration.ignoredResourceForeground": "#0e1330",
-		"gitDecoration.modifiedResourceForeground": "#abcbe0",
+		"gitDecoration.modifiedResourceForeground": "#97b2eb",
 		"gitDecoration.untrackedResourceForeground": "#eb7177",
-		"gitDecoration.addedResourceForeground": "#438bc6d5",
+		"gitDecoration.addedResourceForeground": "#438bc6",
 		"input.background": "#3f506db0",
 		"input.border": "#0e13302c",
 		"input.foreground": "#e2e2e2",
@@ -111,9 +111,9 @@
 		"menubar.selectionBorder": "#0e133050",
 		"menubar.selectionForeground": "#e2e2e2",
 		"minimap.background": "#252930",
-		"minimapGutter.addedBackground": "#e2e2e2",
-		"minimapGutter.deletedBackground": "#a7d0eb",
-		"minimapGutter.modifiedBackground": "#0e1330",
+		"minimapGutter.addedBackground": "#eb717780",
+		"minimapGutter.deletedBackground": "#438bc680",
+		"minimapGutter.modifiedBackground": "#97b2eb80",
 		"minimapSlider.activeBackground": "#0e133088",
 		"minimapSlider.background": "#0e133044",
 		"minimapSlider.hoverBackground": "#0e133088",
@@ -191,7 +191,7 @@
 		"terminal.ansiBrightCyan": "#a7d8eb",
 		"terminal.ansiBrightGreen": "#8adb98",
 		"terminal.ansiBrightMagenta": "#d992de",
-		"terminal.ansiBrightRed": "#d15c5c",
+		"terminal.ansiBrightRed": "#e77080",
 		"terminal.ansiBrightWhite": "#e2e2e2",
 		"terminal.ansiBrightYellow": "#e3cb7b",
 		"terminal.ansiCyan": "#6b9fb3",
@@ -229,7 +229,8 @@
 		{
 		  "scope": [
 			"comment",
-			"punctuation.definition.comment" 
+			"punctuation.definition.comment",
+			"string.comment"
 		  ],
 		  "settings": {
 			"foreground": "#3f506d",
@@ -374,7 +375,7 @@
 			"variable.other.property.js"
 		  ],
 		  "settings": {
-			"foreground": "#abcbe0",
+			"foreground": "#97b2eb",
 		  }
 		},
 		{
@@ -493,7 +494,7 @@
 			"source.postcss support.type.property-name"
 		  ],
 		  "settings": {
-			"foreground": "#abcbe0"
+			"foreground": "#97b2eb"
 		  }
 		},
 		{
@@ -641,7 +642,7 @@
 			"entity.name.section.markdown"
 		  ],
 		  "settings": {
-			"foreground": "#abcbe0",
+			"foreground": "#97b2eb",
 			"fontStyle": "bold"
 		  }
 		},

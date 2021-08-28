@@ -1,8 +1,8 @@
 {
     "name": "hololive-en",
     "displayName": "Hololive EN",
-    "description": "Dark themes based on the Hololive English members",
-    "version": "14.1.1",
+    "description": "Dark themes based on the Hololive English talents",
+    "version": "1.2.0",
     "license": "MIT",
     "icon": "hololive-icon.png",
     "publisher": "hololove",
