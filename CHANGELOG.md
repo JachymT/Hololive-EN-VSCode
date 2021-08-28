@@ -2,6 +2,9 @@
 
 All notable changes to the hololive-en extension will be documented in this file.
 
+## [1.2.1]
+- Fixed verison numbers
+
 ## [1.2.0]
 - Added custom git indicator colours
 - Added custom changed code highlight colours
