@@ -17,7 +17,7 @@
  * Takanashi Kiara [in development]
  * Watson Amelia [in development]
 
-### Proejct Hope
+### Project Hope
  * IRyS [planned release]
 
 ### Gen 2
